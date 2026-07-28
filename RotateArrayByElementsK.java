@@ -28,7 +28,4 @@ class RotateArrayByElementsK{
            reverseArray(arr, 0, k-1);
            reverseArray(arr, n-1, k-1);
            reverseArray(arr, 0, n-1);
-        }
-        return arr;
-    }
-}
+  
