@@ -19,16 +19,6 @@ class RotateArrayByElementsK{
         }
         k = k % n;
         
-        if(direction.equals("right")){
-           reverseArray(arr,0 ,n-1);
-           reverseArray(arr,0 , k-1);
-           reverseArray(arr, n-1, k-1);
-        }
-        else if(direction.equals("left")){
-           reverseArray(arr, 0, k-1);
-           reverseArray(arr, n-1, k-1);
-           reverseArray(arr, 0, n-1);
-        }
-        return arr;
-    }
-}
+
+ 
+   
