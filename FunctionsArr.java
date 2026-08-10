@@ -19,3 +19,7 @@ public class FunctionsArr{
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the length of Array: ");
        int n = scanner.nextInt();
+       Array(n);
+       scanner.close();
+    }
+}
