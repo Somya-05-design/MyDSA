@@ -27,7 +27,6 @@ class CheckForSortedArray{
             numbers[i] = scanner.nextInt();
         }
 
-        System.out.println("The user Inputted Array is : " +Arrays.toString(numbers));
-        boolean result = issorted(numbers);
+     
         
      
