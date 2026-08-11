@@ -36,7 +36,3 @@ class CheckForSortedArray{
         else{
             System.out.println("Array is not sorted");
     }
-    scanner.close();
-    }
-    
-}
