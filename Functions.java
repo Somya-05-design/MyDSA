@@ -15,8 +15,3 @@ System.out.print("Enter num2 : ");
 num2 = scanner.nextInt();
 int func = sum(num1, num2);
 
-System.out.print("The sum of Numbers is : ");
-System.out.println(func);
-scanner.close();
- }
-}
