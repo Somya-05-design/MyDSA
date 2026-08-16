@@ -5,3 +5,7 @@ public class Functions{
     int num3 = num1 + num2;
     return num3;
  }
+ public static void main(String[] args) {
+     int num1, num2;
+Scanner scanner = new Scanner(System.in);
+
