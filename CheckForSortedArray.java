@@ -33,4 +33,8 @@ class CheckForSortedArray{
         if(result){
             System.out.println("Array is sorted");
         }
-  
+        else{
+            System.out.println("Array is not sorted");
+    }
+}
+}
