@@ -30,5 +30,3 @@ class CheckForSortedArray{
         System.out.println("The user Inputted Array is : " +Arrays.toString(numbers));
         boolean result = issorted(numbers);
         
-   
-
