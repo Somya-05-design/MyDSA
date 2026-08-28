@@ -10,4 +10,7 @@ public class FunctionsArr{
             System.out.print("Enter the value for INDEX " + i + ": ");
             arr[i] = scanner.nextInt();
         }
-   
+        for (int i = 0 ; i < n ; i++){
+            System.out.print(arr[i] + " ");
+        }
+ 
