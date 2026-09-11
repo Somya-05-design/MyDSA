@@ -29,3 +29,8 @@ class LargestElementInArray{
 
         System.out.print("The user Input Array is "+ Arrays.toString(numbers));
 
+    int largest = largestNo(numbers);
+
+       System.out.println("The Largest Element of the Array is : " + largest );
+    }
+}
