@@ -20,3 +20,5 @@ class GCDCalculator{
 System.out.println("GCD of "+num1+" and "+num2+" is : "+result);
     }
 }
+
+//wknwknwetr
